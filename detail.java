@@ -1,11 +1,10 @@
-/*******************************************************************************
- * Name				:Hellojava.java
- * Author			:Prapanch J
- * Description		:My First Java Program that prints "Hello Java"
- * Version			:1.0
- * Date				:20/09/23
- * ******************************************************************************/
-
+/************************************************************************************
+ * File         :Employee detail.java
+ * Author       :prapanch j
+ * Description  :Java Program to Implement Inheritance for Employee
+ * Version      :1.0
+ * Date         :17/10/23
+ ***********************************************************************************/
 package employe;
 import java.util.Scanner;
 public class detail {
