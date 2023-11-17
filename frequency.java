@@ -1,7 +1,7 @@
 /************************************************************************************
- * File         :Palindrome.java
+ * File         :Frequency.java
  * Author       :prapanch j
- * Description  :Java Program to Check Whether a Word is Palindrome or Not
+ * Description  :Java Program to Find Count of an Alphabet in a String
  * Version      :1.0
  * Date         :03/10/23
  ***********************************************************************************/
