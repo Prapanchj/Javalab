@@ -1,4 +1,10 @@
-
+/************************************************************************************
+ * File         :Palindrome.java
+ * Author       :Prapanch j
+ * Description  :Java Program to Check Whether a Word is Palindrome or Not
+ * Version      :1.0
+ * Date         :03/10/23
+ ***********************************************************************************/
 package palindrome;
 import java.util.Scanner;
 public class pldrm {
