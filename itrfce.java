@@ -1,3 +1,11 @@
+
+/************************************************************************************
+ * File         :Interface.java
+ * Author       :Prapanch j
+ * Description  :Java Program Use the Concept of Interface
+ * Version      :1.0
+ * Date         :10/11/23
+ ***********************************************************************************/
 package javalab;
 
 public class itrfce {
