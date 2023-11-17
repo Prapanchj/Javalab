@@ -1,3 +1,10 @@
+/************************************************************************************
+ * File         :Matrix multiplication.java
+ * Author       :prapanch j
+ * Description  :Java Program to Multiply two Matrices
+ * Version      :1.0
+ * Date         :10/10/23
+ ***********************************************************************************/
 package matrix;
 
 import java.util.Scanner;
