@@ -9,12 +9,12 @@ public class bank {
 		Scanner sc = new Scanner(System.in);
 		InvalidAmountException amountException = new InvalidAmountException("Invalid Amount");
 		InsufficientFundsExceptions fundsException = new InsufficientFundsExceptions("Insufficient Funds");
-		System.out.println("****Banking System Application****");
+		System.out.println("* Banking System Application *");
 		System.out.println("Enter number of customers:");
 		int noOfCustomers=sc.nextInt();
 		Customer[] obj = new Customer[noOfCustomers];
 		for (int i=0; i<noOfCustomers; i++) {
-			System.out.println("****Enter Customer Details****");
+			System.out.println("*Enter Customer Details*");
 			obj[i] = new Customer();
 			obj[i].setCustomerDetails();
 		}
@@ -115,9 +115,9 @@ public class bank {
 				}
 				break;
 			case 5:
-				System.out.println("**************************");
-				System.out.println(" Thank You :) Visit Again ");
-				System.out.println("**************************");
+				System.out.println("**********");
+				System.out.println(" Thank You ");
+				System.out.println("**********");
 				break;
 			default:
 				System.out.println("Invalid Choice");
@@ -144,7 +144,7 @@ class Customer {
 		accountBalance=sc.nextInt();
 	}
 	public void getCustomerDetails() {
-		System.out.println("****CUSTOMER DETAILS****");
+		System.out.println("**-CUSTOMER DETAILS-**");
 		System.out.println("Account Number: " + accountNumber);
 		System.out.println("Account Type: " + accountType);
 		System.out.println("Customer Name: " + customerName);
